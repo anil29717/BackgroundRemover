@@ -1,0 +1,22 @@
+.bg-removeimage{
+    /* border: 1px solid black; */
+    height: 200px;
+    width: 200px;
+    background-image: url(../Images/bg-remove-home.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.bg-logo{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(../Images/bg-logo.png);
+    height: 40px;
+    width: 40px;
+}
+
+.main-div{
+    background-image: url(../Images/bg-remover-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
